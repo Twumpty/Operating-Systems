@@ -1,3 +1,5 @@
   An OS allows hardware components to coordinate with each other. Every piece of hardware has its own language and uses drivers to translate for the operating system to be able to talk to them. Every hardware will have its own drivers for different Operating systems. This allows successful communication between software and the hardware.
 
   Another function of the OS is to provide a user interface. Now adays we have GUI, or Graphical User Interface. Before we had only text to navigate your system. GUI gives us a more visual representation of what we are doing within the OS, whether it is looking inside folders and directories or running various programs.
+
+  A third function of an OS is to manage the resources. These include Memory, Storage and Applications. Without managing the memory programs may interfere with each other and cause issues. The OS controls when things happen and assigns resources to applications depending on their priority.
