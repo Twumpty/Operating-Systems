@@ -1,0 +1,1 @@
+An OS allows hardware components to coordinate with each other. Every piece of hardware has its own language and uses drivers to translate for the operating system to be able to talk to them. Every hardware will have its own drivers for different Operating systems. This allows successful communication between software and the hardware.
